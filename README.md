@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install or yarn
+npm install --legacy-peer-deps or yarn
 ```
 
 ### Compiles and hot-reloads for development
